@@ -1,0 +1,9 @@
+.word{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background: lightblue;
+}
+.begin{
+color: blue;
+}
